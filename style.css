@@ -34,3 +34,19 @@ body{
     width: 260px;
 
 }
+@media screen and (max-width: 480px) {
+   body{
+       padding: 0;
+       margin: 0;
+   }
+   .A1{
+       width: 90%;
+       margin: 50px auto auto auto;
+       text-align: center;
+       align-items: center;
+
+   }
+   .B1{
+       width: 80%;
+   }
+}
